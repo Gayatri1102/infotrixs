@@ -89,7 +89,7 @@ This example uses Bootstrap classes for the container and form control to enhanc
         }
 
         function updateWeather() {
-            const cityName = document.getElementById('cityInput').value || 'New York';
+            const cityName = document.getElementById('cityInput').value || 'Pune';
 
             // In a real-world scenario, you would fetch data from an API
             // For simplicity, using static data here
